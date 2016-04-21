@@ -1,0 +1,13 @@
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\bin\Debug\MathTester.exe.config
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\bin\Debug\MathTester.exe
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\bin\Debug\MathTester.pdb
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\App.g.cs
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.g.resources
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.csproj.GenerateResource.Cache
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.exe
+C:\Dropbox\!Coding\All_in_one\MathTester\MathTester\obj\Debug\MathTester.pdb
